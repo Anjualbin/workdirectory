@@ -1,0 +1,47 @@
+
+body{
+    background-color: #f0f2f5;
+    /*hexadeciaml value*/
+}
+h1{
+    color:aquamarine;
+    /*primary value(specifying color directly)*/
+    text-align: center;
+}
+.row{
+    width:30%;
+    height: 550px;
+    float: left;
+    border: 2px solid white;
+    margin-left: 20px;
+    
+}
+/* css unit % is relative. it will relate on its parent*/
+/* css unit px is absolute. wont change according to screen size , not depend on parent*/
+.row img{
+    width:100%
+}
+.row h3{
+    color:#5e068a;
+    padding: 20px;
+
+}
+.row p{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 28px;
+    padding: 20px;
+}
+#home{
+    color:hsl(280, 98%, 50%);
+    /*hsl value*/
+    
+}
+.btn{
+    background-color:#5e068a ;
+    color: white;
+    width: 70px;
+    height:40px;
+}
+/* selectors- tag selector,id selctor(#, for unique element)
+class selector(.)*/

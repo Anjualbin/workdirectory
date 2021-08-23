@@ -1,0 +1,15 @@
+a=int(input("Enetr the first number:"))
+b=int(input("Enetr the first number:"))
+c=int(input("Enetr the first number:"))
+
+if a>b and a>c:
+    print("a is the largest number")
+elif b>a and b>c:
+    print("b is the largest number")
+elif a==b and a==c:
+    print("all are equal")
+else:
+    print("c is the largest number")
+
+
+

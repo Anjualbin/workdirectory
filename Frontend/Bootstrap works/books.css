@@ -1,0 +1,27 @@
+
+#cap{
+    color: blue;
+    font-weight: 1000;
+    font-size: 50px;
+    margin-top: 5px;
+}
+#caption{
+    color: blue;
+    font-size: 20px;
+    font-weight: 400;
+}
+img{
+    max-height: 600px;
+}
+h3,h4,h5{
+    color: #5b418d;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p{
+    font-size: 18 px;
+    color: dimgrey;
+    line-height: 2;
+}
+.container{
+    background-color: rgb(243, 243, 245);
+}

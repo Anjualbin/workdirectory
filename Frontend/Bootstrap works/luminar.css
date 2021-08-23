@@ -1,0 +1,62 @@
+
+.nav-item{
+    color: #2d3e50;
+    display: block;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 26px;
+    text-decoration: none;
+    padding: 10px;
+      
+}
+.navbar img{
+    padding-left:150px;
+    padding-right: 250px;
+}
+.carousel-item img{
+    height: 500px;
+}
+.headings{
+    font-size: 32px;
+    line-height: 32px;
+    font-weight: 580;
+    color: #5e068a;
+    margin-top: 40px;
+    
+}
+.container .row span{
+    color: #5e068a99;
+}
+.container .row p{
+    line-height: 32px;
+    font-size: 16px;
+    margin-top: 20px;
+}
+.btnlink{
+    padding: 16px 27px;
+    font-weight: 600;
+    margin-top: 21px;
+    border-radius: 50px;
+    background-color:#5e068a;
+    color:white;
+    border-color: white;
+    text-transform: uppercase;
+    
+}
+.btnlink:hover{
+    background-color:white;
+    color:#5e068a;
+    border-color:#5e068a;
+
+}
+.row .col{
+    margin-left: 50px;
+}
+.dataimg{
+    width: 100%;
+}
+.coursehead{
+    text-decoration: none;
+    color: #5e068a;
+    font-size: 24px;
+}

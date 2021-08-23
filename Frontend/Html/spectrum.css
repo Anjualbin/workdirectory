@@ -1,0 +1,121 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.row{
+    width: 45%;
+    height: 175px;
+    position: relative;
+    left: 28%;
+    /*background-color: indigo;*/
+    
+}
+.col{
+    width: calc(92%/5);
+    height: 175px;
+    float:left;
+    margin-left: 10px;
+}
+.col:nth-child(1){
+    background-color: tomato;
+}
+.col:nth-child(2){
+    background-color: tan;
+}
+.col:nth-child(3){
+    background-color: palevioletred;
+}
+.col:nth-child(4){
+    background-color: coral;
+}
+.col:nth-child(5){
+    background-color: darkkhaki;
+}
+.row2{
+    position: relative;
+    width: 63.5%;
+    height: 175px;
+    margin-top:30px;
+    left: 19%;
+    /*background-color: grey;*/
+    
+}
+.col-1{
+    width: calc(92%/7);
+    height: 175px;
+    float:left;
+    margin-left: 10px; 
+}
+.col-1:nth-child(1){
+    background-color: darksalmon;
+
+}
+.col-1:nth-child(2){
+    background-color: rgb(133, 27, 110);
+
+}
+.col-1:nth-child(3){
+    background-color: rgb(248, 66, 6);
+
+}
+.col-1:nth-child(4){
+    background-color: rgb(245, 12, 167);
+
+}
+.col-1:nth-child(5){
+    background-color: forestgreen;
+
+
+}
+.col-1:nth-child(6){
+    background-color: goldenrod;
+}
+.col-1:nth-child(7){
+    background-color:ghostwhite;
+}
+.row3{
+    position: relative;
+    width: 82%;
+    height: 175px;
+    margin-top:30px;
+    left:10%;
+    /*background-color: grey;*/
+    
+}
+.col-2{
+    width: calc(92%/9);
+    height: 175px;
+    float:left;
+    margin-left: 10px; 
+}
+.col-2:nth-child(1){
+    background-color:hotpink;
+}
+.col-2:nth-child(2){
+    background-color:lawngreen;
+}
+.col-2:nth-child(3){
+    background-color: lightgreen;
+    
+}
+.col-2:nth-child(4){
+    background-color: mediumpurple;
+}
+.col-2:nth-child(5){
+    background-color: rgb(89, 160, 156);
+}
+.col-2:nth-child(6){
+    background-color: yellowgreen;
+}
+.col-2:nth-child(7){
+    background-color: rosybrown;
+}
+.col-2:nth-child(8){
+    background-color: navy;
+}
+.col-2:nth-child(9){
+    background-color: sienna;
+}

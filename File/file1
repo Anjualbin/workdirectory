@@ -1,0 +1,10 @@
+Hello
+how are you
+12345
+9.0
+The data stored ina file will text type only.
+
+2 operations in file
+Read .... get the data stored in a file ...... w
+write .... store data to a file .............. r
+append ...... store data to the file ......... a
